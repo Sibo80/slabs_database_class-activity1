@@ -1,14 +1,6 @@
-<<<<<<< HEAD
-#Author: Sibonile
-=======
 # Author: Sibonile
 
-The Fundamentals of Database Design and Information Systems(WhatsApp)
->>>>>>> 8d4b64c0d12ba3f9d30d9b23cff13356884867ce
-
-
-The Fundamentals of Database Design and Information Systems(WhatsApp)
-
+The Fundamentals of Database Design and Information Systems(WhatsAp)
 1. Hardware
 
 Smartphones, tablets and computers
